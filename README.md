@@ -1,32 +1,57 @@
-# Week 2 - VAPT Project
+# VAPT Project Repository
 
-This repository contains the complete submission for Week 2 Vulnerability Assessment and Penetration Testing (VAPT) tasks.
+This repository contains structured Vulnerability Assessment and Penetration Testing (VAPT) lab work performed in a controlled environment.
 
-## Target Environment
+---
+
+## 📌 Target Environment
 - Metasploitable2 (Local Lab)
 - DVWA (Damn Vulnerable Web Application)
+- Mutillidae
 
-## Tasks Covered
-1. Vulnerability Scanning
-2. Reconnaissance (OSINT & Asset Mapping)
-3. Exploitation (Metasploit - Tomcat RCE)
-4. Post-Exploitation (Evidence Collection & Hashing)
-5. Full VAPT Cycle (PTES Methodology)
+---
 
-## Tools Used
+## 📂 Project Structure
+
+### 🔹 Week 2
+- Vulnerability Scanning
+- Reconnaissance
+- Exploitation (Metasploit)
+- Post-Exploitation
+- VAPT Lifecycle
+
+📁 Folder: `Week_2/`
+
+---
+
+### 🔹 Week 3
+- Advanced Exploitation (XSS → RCE)
+- Web Application Testing (SQLi, XSS)
+- Reporting Practice
+- Evidence Collection & Hashing
+- Full VAPT Cycle (Capstone Project)
+
+📁 Folder: `Week_3/`
+
+---
+
+## 🛠 Tools Used
 - Nmap
-- Nikto
-- Metasploit Framework
+- Burp Suite
 - sqlmap
-- Maltego
-- Shodan
+- Metasploit
+- Wireshark
 
-## Key Outcomes
-- Identified multiple open services and vulnerabilities
-- Successfully exploited Tomcat service to gain remote access
-- Performed post-exploitation and collected sensitive system files
-- Conducted SQL injection testing (limited due to lab constraints)
-- Documented complete VAPT workflow
+---
 
-## Note
+## 🎯 Key Skills Demonstrated
+- Vulnerability Identification & Exploitation
+- Web Application Security Testing
+- Post-Exploitation Techniques
+- Evidence Collection & Analysis
+- Professional Reporting
+
+---
+
+## ⚠️ Disclaimer
 This project was conducted in a controlled lab environment for educational purposes only.
