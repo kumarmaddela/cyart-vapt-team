@@ -1,0 +1,4 @@
+Finding ID | Vulnerability       | CVSS Score | Remediation
+-----------|--------------------|------------|------------------------------
+F001       | SQL Injection      | 9.1        | Input validation, prepared statements
+F002       | Cross-Site Scripting | 6.1      | Input sanitization, output encoding

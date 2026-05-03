@@ -1,0 +1,4 @@
+Test ID | Vulnerability       | Severity | Target URL
+--------|--------------------|----------|------------------------------------------
+001     | SQL Injection      | Critical | http://192.168.31.199/dvwa
+002     | XSS Reflected      | Medium   | http://192.168.31.199/mutillidae
