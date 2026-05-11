@@ -1,0 +1,1 @@
+ARP spoofing was demonstrated using Ettercap to intercept local network traffic between devices. Packet captures analyzed in Wireshark showed the possibility of traffic interception and credential exposure during man-in-the-middle attacks.

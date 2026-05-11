@@ -1,0 +1,2 @@
+API security testing identified authorization and input validation weaknesses affecting sensitive endpoints. Testing demonstrated improper access controls and insecure query handling that could allow unauthorized data exposure or manipulation.
+

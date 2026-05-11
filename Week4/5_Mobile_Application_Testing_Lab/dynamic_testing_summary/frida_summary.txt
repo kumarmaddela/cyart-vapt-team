@@ -1,0 +1,1 @@
+Dynamic testing activities demonstrated mobile application analysis workflows using Frida and Drozer. Runtime instrumentation and tool setup attempts highlighted potential weaknesses in authentication handling and insecure application configurations.

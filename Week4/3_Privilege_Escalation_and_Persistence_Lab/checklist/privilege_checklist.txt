@@ -1,0 +1,5 @@
+- Run LinPEAS for enumeration
+- Identify SUID vulnerabilities
+- Check kernel exploit suggestions
+- Enumerate cron jobs
+- Set up persistence using cron jobs

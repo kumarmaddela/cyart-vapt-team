@@ -1,0 +1,4 @@
+- Capture NTLM hashes using Responder
+- Perform ARP spoofing with Ettercap
+- Analyze captured traffic using Wireshark
+- Monitor network packets

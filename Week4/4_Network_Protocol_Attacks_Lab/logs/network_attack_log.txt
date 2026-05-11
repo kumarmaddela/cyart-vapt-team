@@ -1,0 +1,2 @@
+Attack ID | Technique   | Target IP      | Status  | Outcome
+015       | SMB Relay  | 192.168.31.48 | Success | NTLM Hash

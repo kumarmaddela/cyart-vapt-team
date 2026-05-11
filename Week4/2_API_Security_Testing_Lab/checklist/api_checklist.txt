@@ -1,0 +1,3 @@
+- Enumerate API endpoints
+- Test for BOLA using Burp Suite
+- Fuzz GraphQL queries using Postman

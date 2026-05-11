@@ -1,0 +1,4 @@
+- Run MobSF for static analysis
+- Attempt Frida runtime hooking
+- Test IPC using Drozer
+- Analyze APK permissions and storage

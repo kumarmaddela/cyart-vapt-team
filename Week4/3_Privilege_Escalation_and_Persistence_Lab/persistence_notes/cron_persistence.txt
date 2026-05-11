@@ -1,0 +1,1 @@
+A cron job persistence mechanism was demonstrated to maintain access on the target system. Scheduled tasks can allow recurring command execution and continued access after user logout or system reboot.
